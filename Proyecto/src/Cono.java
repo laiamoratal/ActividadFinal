@@ -32,7 +32,7 @@ public class Cono {
 		 */
 		double v = (1.0/3.0) * PI * r * r * h;
 		
-		System.out.println("El volumen del cono es de "+ v + "cm3");
+		System.out.println("El volumen es de "+ v + "cm3");
 	}
 
 }
